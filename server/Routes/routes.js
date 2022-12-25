@@ -1,6 +1,7 @@
 
 const express=require('express');
 const Post=require('../Model/post');
+
 const Router=express.Router();
 
 const api_router=require('./api');
